@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assesment1</string>
+    <string name="app_name_project">Calculate Tip</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="payment_bill">Payment bill</string>
+    <string name="bronzo">Bronzo</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="total_tip">Tip : Rp. %1$s</string>
+    <string name="total_bill">Total Bill : Rp. %1$s</string>
+    <string name="share_template">Tip calculation results:\n\nPayment bill: %1$s\nGrade bill: %2$s\n\nTotal Tip: %3$s, \nTotal Bill: %4$s</string>
+    <string name="copyright">Copyright © 2024 yehezkiel enrico bangun.\nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
+    <string name="foto_profil">foto_profil</string>
+    <string name="description_app">Calculate Tip is a simple calculator app that helps users quickly and accurately calculate restaurant tips. By entering the total payment and desired tip percentage, users can easily see the total tip amount to be given along with the final bill total. The app is suitable for use in various dining situations, providing convenience and efficiency in calculating tips precisely.</string>
+    <string name="developer_info">© 2024 Yehezkiel Enrico Bangun. 6706213082.</string>
+</resources>

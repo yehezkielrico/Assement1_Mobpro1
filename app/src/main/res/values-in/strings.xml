@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assesment1</string>
+    <string name="app_name_project">Hitung Tip</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="payment_bill">Tagihan Pembayaran</string>
+    <string name="bronzo">Bronze</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="total_tip">Tip: Rp. %1$s</string>
+    <string name="total_bill">Total Tagihan: Rp. %1$s</string>
+    <string name="share_template">Hasil perhitungan tip:\n\nTagihan pembayaran: %1$s\nGrade tagihan: %2$s\n\nTotal Tip: %3$s, \nTotal Tagihan: %4$s</string>
+    <string name="copyright">Hak Cipta © 2024 Yehezkiel Enrico Bangun.\nSeluruh hak cipta dilindungi.</string>
+    <string name="kembali">Kembali</string>
+    <string name="foto_profil">Foto Profil</string>
+    <string name="description_app">Hitung Tip adalah aplikasi kalkulator sederhana yang membantu pengguna dengan cepat dan akurat menghitung tip restoran. Dengan memasukkan total pembayaran dan persentase tip yang diinginkan, pengguna dapat dengan mudah melihat jumlah total tip yang harus diberikan bersama dengan total tagihan akhir. Aplikasi ini cocok untuk digunakan di berbagai situasi makan di luar, memberikan kenyamanan dan efisiensi dalam menghitung tip secara tepat.</string>
+    <string name="developer_info">© 2024 Yehezkiel Enrico Bangun. 6706213082.</string>
+</resources>
